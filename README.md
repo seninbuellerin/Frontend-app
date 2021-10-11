@@ -1,2 +1,5 @@
 # Frontend-app
-КИ19-20Б, Куклина. М. С
+
+My first repository on GirHub
+
+I love :coffee: and :pizza:
